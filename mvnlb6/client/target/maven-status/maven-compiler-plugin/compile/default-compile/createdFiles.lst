@@ -1,0 +1,4 @@
+client\Client.class
+client\network\ClientSenderReceiver.class
+client\utils\ConsoleManager.class
+client\ClientAddHandler.class

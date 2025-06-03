@@ -1,0 +1,11 @@
+shared\network\Response.class
+shared\Structures\StudyGroup.class
+shared\Structures\Coordinates.class
+shared\utils\StudyGroupCounter.class
+shared\Structures\Person.class
+shared\utils\Serializer.class
+shared\Structures\Color.class
+shared\Structures\ColorHair.class
+shared\Structures\Location.class
+shared\Structures\Semester.class
+shared\network\Request.class
